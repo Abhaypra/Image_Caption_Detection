@@ -1,6 +1,6 @@
-# 🖼️ Image Caption Detection using CLIP
+# 🖼️ Insight Lens using CLIP
 
-Unlock intelligent image understanding with **Image Caption Detection using CLIP** – a visually rich and AI-powered web app built using **Streamlit**, **OpenAI's CLIP model**, and **PyTorch**. Upload an image and discover the best-matching captions from a large set of creative descriptions.
+Unlock intelligent image understanding with **Insight Lens using CLIP** – a visually rich and AI-powered web app built using **Streamlit**, **OpenAI's CLIP model**, and **PyTorch**. Upload an image and discover the best-matching captions from a large set of creative descriptions.
 
 ## 🚀 Live Demo
 
