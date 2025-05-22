@@ -80,15 +80,6 @@ Easily deploy on **Google Colab** and access via **ngrok**.
 ├── clip_processor/       # Saved CLIP processor files
 └── README.md             # You're here!
 ```
-
----
-
-## 📸 Screenshots
-
-| Upload Images                              | Captions Output                             |
-| ------------------------------------------ | ------------------------------------------- |
-| ![upload]([https://i.imgur.com/UuH1syK.png](https://drive.google.com/file/d/11fhh8ANMU1H0OlE-IlLOMplOPkbrP-yM/view?usp=sharing)) | ![results](https://drive.google.com/file/d/1HqlN0G1QQQhZ4hzis6sIJDto50Jmfw6j/view?usp=sharing) |
-
 ---
 
 ## 💡 Future Improvements
